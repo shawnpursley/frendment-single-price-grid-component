@@ -88,22 +88,7 @@
             /* identical to box height */
           letter-spacing: -0.225px;
           color: #FFFFFF;}
- .dollar{
-          position: absolute;
-          left: 6.3%;
-          right: 70.55%;
-          top: 10px;
-          /* bottom: 55.21%; */
-         font-family: Karla;
-         font-style: normal;
-         font-weight: bold;
-         font-size: 32px;
-         line-height: 37px;
-         letter-spacing: -0.4px;
-         color: #FFFFFF;
-
-        }
- .sign{
+           .sign{
 position: absolute;
 width: 237px;
 height: 48px;
@@ -238,21 +223,21 @@ opacity: 0.75;
     right: 20.72%;
     top: 5.27%;
    bottom: 55.16%;
-    }
+}
 .dollar{
 position: absolute;
 height: 37px;
 left: 15%;
 right: 58.5%;
 top: 15%;
-    }
+}
 .per{
 position: absolute;
 height: 26px;
 left: 33%;
 right: -0.68%;
 top: 15%;
-    }
+}
 .peer{
 position: absolute;
 left: 15%;
